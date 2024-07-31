@@ -1,7 +1,12 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**naelygarcia/naelygarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Naely Garcia
+-Estou estudando no alura
+-Utilizo esse espaço para minha organização dos meus projetos
+
+### Você pode entrar em contato comigo: mailbox
+00001121810925sp@al.educacao.sp.gov.br
+@naelygarciaas
 
 Here are some ideas to get you started:
 
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
