@@ -5,6 +5,7 @@ Meu nome é Naely Garcia
 -Estou estudando no  [Alura](https://www.alura.com.br)
 
 -estou me desenvolvendo na linguagem JavaSCript
+
 -Utilizo esse espaço para minha organização dos meus projetos
 
 ### Você pode entrar em contato comigo 📫
